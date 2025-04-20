@@ -120,7 +120,7 @@ This code is based on the MATLAB MSK GA OPT code, which was developed for optimi
 
 For more information on the methodology and applications, please refer to:
 
-Long Z, et al. "Optimized local coil array design for musculoskeletal MRI." Magnetic Resonance in Medicine. 2024. DOI: 10.1002/mrm.30474
+Long Z, et al. "Improving fat saturation robustness in outer extremity MRI with a local shim coil insert." Magnetic Resonance in Medicine. 2024. DOI: 10.1002/mrm.30474
 
 https://onlinelibrary.wiley.com/doi/10.1002/mrm.30474
 
